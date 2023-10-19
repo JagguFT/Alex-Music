@@ -2,14 +2,6 @@
 
 Alex is a versatile and user-friendly Discord music bot that allows you to play songs from various sources and customize your audio experience with built-in filters.
 
-## Screenshots
-
-## Screenshots
-
-![Screenshot 1](https://cdn.discordapp.com/attachments/1131235535273328650/1140952237997297704/image.png)
-![Screenshot 2](https://cdn.discordapp.com/attachments/1131235535273328650/1140952238219612211/image.png)
-![Screenshot 3]((https://cdn.discordapp.com/attachments/1128921162064347167/1164403104943444068/image.png?ex=654315e5&is=6530a0e5&hm=369a5f074949bbb4b7e45d9f66b60ac173eb3156953b409a55d0db39739d1e40&=))
-
 ## Features
 
 - Play songs from YouTube, Spotify, and SoundCloud.
@@ -83,10 +75,10 @@ Alex is a versatile and user-friendly Discord music bot that allows you to play 
 
 For assistance or questions, join our [support server]((https://discord.gg/BEFPkccG2T)).
 
-## Contributors
+## Contributor
 
 ALex Music Is Made By and maintained @jagguft dont claim this as yours 
 
 ## Disclaimer
 
-Please use Muzio in compliance with Discord's [Terms of Service](https://discord.com/terms) and [Developer Terms of Service](https://discord.com/developers/docs/legal).
+Please use Alex in compliance with Discord's [Terms of Service](https://discord.com/terms) and [Developer Terms of Service](https://discord.com/developers/docs/legal).
