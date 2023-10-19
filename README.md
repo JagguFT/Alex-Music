@@ -8,7 +8,7 @@ Alex is a versatile and user-friendly Discord music bot that allows you to play 
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1131235535273328650/1140952237997297704/image.png)
 ![Screenshot 2](https://cdn.discordapp.com/attachments/1131235535273328650/1140952238219612211/image.png)
-![Screenshot 3](https://cdn.discordapp.com/attachments/1131235535273328650/1140952238492221440/image.png)
+![Screenshot 3]((https://media.discordapp.net/attachments/1164400253810774109/1164401534902227034/Screenshot_97.png?ex=6543146f&is=65309f6f&hm=9b7fee609f5535614ade735fc769a23cd238708054ce4925a91331912608133c&=))
 
 
 ## Features
