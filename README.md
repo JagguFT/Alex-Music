@@ -23,7 +23,7 @@ Alex is a versatile and user-friendly Discord music bot that allows you to play 
     "token" : "",
     "prefix" : "$",
     "color" : "#c50632",
-    "owners" : ["900708551805268019"],
+    "owners" : ["1111847981575053332"],
     "mongourl" : "",
 
     "errors" : "",
@@ -47,7 +47,7 @@ Alex is a versatile and user-friendly Discord music bot that allows you to play 
    - Clone this repository:
 
    ```sh
-   git clone https://github.com/ScienceGear/muzio.git
+   git clone https://github.com/JagguFT/Alex-Music
    ```
 
    - Install the required packages:
