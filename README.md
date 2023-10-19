@@ -1,6 +1,6 @@
-# Muzio - Discord Music Bot
+# AlexMusic - Discord Music Bot
 
-Muzio is a versatile and user-friendly Discord music bot that allows you to play songs from various sources and customize your audio experience with built-in filters.
+Alex is a versatile and user-friendly Discord music bot that allows you to play songs from various sources and customize your audio experience with built-in filters.
 
 ## Screenshots
 
@@ -21,7 +21,7 @@ Muzio is a versatile and user-friendly Discord music bot that allows you to play
 ## Getting Started
 
 1. **Fork This Code**
-    [![Muzio DIscord Bot](https://replit.com/badge)](https://replit.com/github/ScienceGear/muzio)
+    [![Muzio DIscord Bot](https://github.com/JagguFT/Alex-Music))]
 
 2. **Configuration**
    - edit `config.json` file in the root directory with your bot token and other settings:
@@ -40,9 +40,8 @@ Muzio is a versatile and user-friendly Discord music bot that allows you to play
     "mongourl2" : "",
     "spotifySecret" : "",
     "topggapi" : "",
-    "server" : "https://dsc.gg/sciencegear",
-    "vote" : "https://dsc.gg/sciencegear",
-    "invite" : "https://discord.com/api/oauth2/authorize?client_id=1122883732303511583&permissions=8&scope=applications.commands%20bot",
+    "server" : "https://discord.gg/BEFPkccG2T",
+    "invite" : "(https://discord.com/api/oauth2/authorize?client_id=1163115276620013708&permissions=552174881824&scope=bot)",
     "nodes" : [{
        "name" : "LavaLink",
         "host" : "192.168.1.250",
@@ -83,11 +82,11 @@ Muzio is a versatile and user-friendly Discord music bot that allows you to play
 
 ## Support
 
-For assistance or questions, join our [support server](https://dsc.gg/sciencegear).
+For assistance or questions, join our [support server]((https://discord.gg/BEFPkccG2T)).
 
 ## Contributors
 
-Muzio is developed and maintained by Science Gear
+ALex Music Is Made By and maintained @jagguft dont claim this as yours 
 
 ## Disclaimer
 
